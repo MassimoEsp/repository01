@@ -3,3 +3,5 @@ riga02
 riga03
 riga04
 riga05
+riga06
+riga07
